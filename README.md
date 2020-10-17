@@ -1,1 +1,2 @@
-# Mental-Toughness-secrets
+# webtech-lab
+Web tech class assignments
